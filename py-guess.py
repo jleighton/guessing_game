@@ -1,6 +1,6 @@
 import random
 number = random.randrange(1,50)
-print (number)
+#print (number)
 guess = int(input("Guess a number...."))
 
 while guess != number:
